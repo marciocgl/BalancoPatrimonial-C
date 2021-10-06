@@ -1,1 +1,1 @@
-# Programa desenvolvido em c para calculo do balanço patrimonial.
+# Programa desenvolvido em c para cálculo do balanço patrimonial.
